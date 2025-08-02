@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\sinav_hazirlik\sinav_hazirlik\bin\Debug\sinav_hazirlik.exe.config
+C:\Users\Administrator\Desktop\sinav_hazirlik\sinav_hazirlik\bin\Debug\sinav_hazirlik.exe
+C:\Users\Administrator\Desktop\sinav_hazirlik\sinav_hazirlik\bin\Debug\sinav_hazirlik.pdb
+C:\Users\Administrator\Desktop\sinav_hazirlik\sinav_hazirlik\obj\Debug\sinav_hazirlik.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\sinav_hazirlik\sinav_hazirlik\obj\Debug\sinav_hazirlik.Form1.resources
+C:\Users\Administrator\Desktop\sinav_hazirlik\sinav_hazirlik\obj\Debug\sinav_hazirlik.Properties.Resources.resources
+C:\Users\Administrator\Desktop\sinav_hazirlik\sinav_hazirlik\obj\Debug\sinav_hazirlik.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\sinav_hazirlik\sinav_hazirlik\obj\Debug\sinav_hazirlik.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sinav_hazirlik\sinav_hazirlik\obj\Debug\sinav_hazirlik.exe
+C:\Users\Administrator\Desktop\sinav_hazirlik\sinav_hazirlik\obj\Debug\sinav_hazirlik.pdb
